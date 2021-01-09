@@ -3,11 +3,11 @@ html {
 }
 
 body {
-    background: url('/media/background-main.jpg') no-repeat center center fixed;
+    background: url('/media/background-main.jpeg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
     color: #555;
-    font-family: 'Lato';
+    font-family: 'Poppins';
 }
 
 /* from Bulma */
@@ -27,7 +27,7 @@ body {
     width: fit-content;
 }
 
-.shop-now-button {
+.main-shop-button {
     background: black;
     color: white;
     min-width: 260px;
