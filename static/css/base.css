@@ -38,6 +38,12 @@ body {
     color: white;
 }
 
+@media screen and (min-width: 0px) and (max-width:900px) {
+  #headerid {
+      position: static !important;
+  }
+}
+
 .shop-now-button:hover,
 .shop-now-button:active,
 .shop-now-button:focus,
@@ -54,6 +60,10 @@ body {
 
 .border-black {
     border: 1px solid black !important;
+}
+
+.bg-black {
+    background: red !important;
 }
 
 /* -------------------------------- Media Queries */
