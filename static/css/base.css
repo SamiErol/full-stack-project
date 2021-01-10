@@ -38,12 +38,6 @@ body {
     color: white;
 }
 
-@media screen and (min-width: 0px) and (max-width:900px) {
-  #headerid {
-      position: static !important;
-  }
-}
-
 .shop-now-button:hover,
 .shop-now-button:active,
 .shop-now-button:focus,
@@ -97,5 +91,16 @@ body {
 
     .header-container {
         padding-top: 164px;
+    }
+}
+
+/* padding needed for mobile nav */
+@media (max-width: 991px) {
+    .header-container {
+        padding-top: 116px;
+    }
+
+    body {
+        height: calc(100vh - 116px);
     }
 }
