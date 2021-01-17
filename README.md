@@ -6,6 +6,8 @@ Fitness World is an e-commerce store with a focus towards the fitness fanatics. 
  
 This website was designed to be familiar. We did not want to disturb the user with unneccesary structures. The mobile layout is seemless and it organically expands for tablet and desktop users.
 
+UI Mockups: https://wireframepro.mockflow.com/view/Ma9bd9ca12ef979ebb50e386d648cf4121610848278387
+
 User stories:
 - As a shopper, I want to be able to browse products, so I may buy if I intend.
 - As a shopper, I want to be able to browse product details, so I may buy/view more product information.
@@ -27,10 +29,6 @@ User stories:
 - As a store owner, I want to be able to add products, when new items become available.
 - As a store owner, I want to be able to update/edit products, incase I need to modify any criteria.
 - As a store owner, I want to be able to delete products, when they are out of stock.
-
-
-
-UI Mockups: https://wireframepro.mockflow.com/view/Ma9bd9ca12ef979ebb50e386d648cf4121610848278387
  
 ### Features Highlight
 - Provided an intuitive fully featured e-commerce site
